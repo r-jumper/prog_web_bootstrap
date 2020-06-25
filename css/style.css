@@ -1,0 +1,25 @@
+
+.navbar{
+    background-color: rgba(55, 50, 92, 0.801);
+    color: honeydew;
+}
+.item-passo{
+    background-color: rgb(95, 122, 113);
+    color: rgb(48, 42, 31);
+}
+.item-projeto{
+    background-color: rgb(107, 97, 78);
+    color: rgb(48, 42, 31);
+}
+.item-documento{
+    background-color: rgb(95, 74, 71);
+    color:rgb(48, 42, 31);
+}
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
